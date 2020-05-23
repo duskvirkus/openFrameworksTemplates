@@ -1,0 +1,41 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "${workspaceRoot}/../../../../libs/openFrameworks"
+    },
+    {
+      "path": "${workspaceRoot}/../../../../addons"
+    }
+  ],
+  "settings": {
+    "triggerTaskOnSave.tasks": {
+      "start": ["**/*.h", "**/*.cpp"]
+    },
+    "clang-tidy.buildPath": "${workspaceRoot}/../../../../libs/openFrameworks",
+    "cSpell.words": [
+      "cpptools",
+      "eamodio",
+      "gitlens",
+      "gruntfuggly",
+      "streetsidesoftware",
+      "triggertaskonsave",
+      "xaver"
+    ],
+    "[cpp]": {
+      "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "editor.formatOnSave": true
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-vscode.cpptools",
+      "xaver.clang-format",
+      "gruntfuggly.triggertaskonsave",
+      "streetsidesoftware.code-spell-checker",
+      "eamodio.gitlens"
+    ]
+  }
+}
