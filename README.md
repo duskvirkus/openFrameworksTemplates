@@ -1,4 +1,4 @@
-# About Template
+# openFrameworks Linux Visual Studio Code Template
 
 This is an [openFrameworks](https://openframeworks.cc/) template for use on linux with [visual studio code](https://code.visualstudio.com/).
 
