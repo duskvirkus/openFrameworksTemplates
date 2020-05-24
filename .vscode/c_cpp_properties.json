@@ -5,6 +5,7 @@
           "includePath": [
               "${workspaceFolder}/**",
               "${workspaceFolder}/../../../libs/**",
+              "${workspaceFolder}/../../../addons/**",
               "/usr/include/**",
               "/usr/lib/**"
           ],

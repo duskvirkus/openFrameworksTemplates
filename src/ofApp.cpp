@@ -1,5 +1,8 @@
 #include "ofApp.h"
 
+constexpr const char *PROJECT_NAME = "Untitled";
+constexpr const char *CREATOR = "Violet Graham";
+
 void ofApp::setup() {}
 
 void ofApp::update() { title(); }
