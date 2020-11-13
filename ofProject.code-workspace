@@ -11,9 +11,9 @@
     }
   ],
   "settings": {
-    "triggerTaskOnSave.tasks": {
-      "start": ["**/*.h", "**/*.cpp"]
-    },
+    // "triggerTaskOnSave.tasks": {
+    //   "start": ["**/*.h", "**/*.cpp"]
+    // },
     "clang-tidy.buildPath": "${workspaceRoot}/../../../../libs/openFrameworks",
     "cSpell.words": [
       "cpptools",
