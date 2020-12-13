@@ -8,6 +8,8 @@ A collection of templates for openFrameworks' project generator. Designed to wor
 
 1. Add `export PG_OF_PATH=/path/to/openFrameworks` to `.profile` or `.bashrc` if you haven't already. *Doing this also means you can put the your project anywhere on your computer without worrying about projects being in the openFrameworks app directory, although if you every move a project to a different computer you may need to update the path.*
 
+2. Install clang-format if not already installed. 
+
 2. Define the following in Visual Studio Code settings (`Ctrl` + `,`). If using a more advanced template check below to see if there are other vscode settings needed.
 
 >```json

@@ -1,11 +1,13 @@
-# openFrameworks Linux Visual Studio Code Template
+# Read Me
 
-This is an [openFrameworks](https://openframeworks.cc/) template for use on linux with [visual studio code](https://code.visualstudio.com/).
+## Running
 
-## Install
+Project is setup to be run in Visual Studio Code on Linux. Use openFrameworks project generator to modify for other platforms.
 
-1. clone this into `<of folder>/scripts/templates`
-2. Update template as you like. (you might want to change creator)
-2. use with projectGenerator, example: `projectGenerator -t"ofLinuxVSCodeTemplate" projectName`
-3. Run `./setup.sh`
-3. Follow instructions in the new main README file
+### VSCode Tasks
+
+- build (builds project using make)
+- run (runs compiled project)
+- kill (will kill program if it's running)
+
+`ctrl + shift + b` will run kill, build, and run.
