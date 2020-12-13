@@ -1,8 +1,8 @@
-# openFrameworks Templates
+# 🌻 openFrameworks Templates 🌻
 
 A collection of templates for openFrameworks' project generator. Designed to work primarily for [Visual Studio Code]() on Linux.
 
-## Installation
+## Installation 🏗️
 
 0. (optional) You may want to fork this repository and look through the templates and change the default name and folder path.
 
@@ -16,7 +16,7 @@ A collection of templates for openFrameworks' project generator. Designed to wor
 
 3. Clone the repository, and run `install.sh`. *Please note this will duplicate the templates into `of/scripts/templates` so that they can be used but if you make any changes you'll have to replace the existing templates.*
 
-## Usage
+## Usage ⚙️
 
 1. Use Project Generator
 
@@ -31,9 +31,9 @@ A collection of templates for openFrameworks' project generator. Designed to wor
 
 4. See the project `README.md` for more information on running the project.
 
-5. Make something awesome!!
+5. Make something awesome! 🎨
 
-## Other VSCode Settings
+## Other VSCode Settings 💫
 
 ### For oftArduinoUno
 
@@ -43,6 +43,6 @@ A collection of templates for openFrameworks' project generator. Designed to wor
 "arduino.defaultBaudRate": 9600,
 ```
 
-## Contributing
+## Contributing 💖
 
 I'd be happy to accept templates that follow the same kind of structure. Also feel welcome to open an issue to discuss changes, possible features, and bugs.
