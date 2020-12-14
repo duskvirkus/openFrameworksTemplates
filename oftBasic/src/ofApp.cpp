@@ -7,7 +7,7 @@ void ofApp::setup() {}
 
 void ofApp::update() { title(); }
 
-void ofApp::draw() {}
+void ofApp::draw() { ofBackground(ofGetFrameNum() % 255); }
 
 void ofApp::title() {
   stringstream titleStream;
