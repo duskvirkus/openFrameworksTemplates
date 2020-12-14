@@ -8,7 +8,7 @@ A collection of templates for openFrameworks' project generator. Designed to wor
 
 A basic template for use in vscode on Linux. It includes auto formatting using clang-format and all necessary configuration to use intellisense in vscode.
 
-![Screenshot of visual studio code with the basic project running.]()
+![Screenshot of visual studio code with the basic openFrameworks project running.](screenshot-oftBasic.png)
 
 ### oftArduinoUno
 
