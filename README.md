@@ -1,6 +1,6 @@
 # 🌻 openFrameworks Templates 🌻
 
-A collection of templates for openFrameworks' project generator. Designed to work primarily for [Visual Studio Code]() on Linux.
+A collection of templates for openFrameworks' project generator. Designed to work primarily for [Visual Studio Code](https://code.visualstudio.com/) on Linux.
 
 ## Installation 🏗️
 
@@ -16,7 +16,7 @@ A collection of templates for openFrameworks' project generator. Designed to wor
 >"openFrameworks.path": "/path/to/openFrameworks/", Must end with /
 >```
 
-3. Clone the repository, and run `install.sh`. *Please note this will duplicate the templates into `of/scripts/templates` so that they can be used but if you make any changes you'll have to replace the existing templates.*
+3. Clone the repository, and run `install.sh`. *Please note this will duplicate the templates into `of/scripts/templates` so that they can be used but if you make any changes you'll have to replace the existing templates by running the install script again.*
 
 ## Usage ⚙️
 
@@ -31,7 +31,7 @@ A collection of templates for openFrameworks' project generator. Designed to wor
 
 3. Accept recommended vscode extensions in the bottom right corner if the pop up comes up.
 
-4. See the project `README.md` for more information on running the project.
+4. See the project's `README.md` for more information on running the project.
 
 5. Make something awesome! 🎨
 
