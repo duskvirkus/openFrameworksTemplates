@@ -10,6 +10,12 @@ A basic template for use in vscode on Linux. It includes auto formatting using c
 
 ![Screenshot of visual studio code with the basic openFrameworks project running.](screenshot-oftBasic.png)
 
+### oftArduinoUno
+
+Expands on the basic template to and creates a project that has a arduino sketch and a openFrameworks sketch. Configured with a starter program that lights up the arduino's on board led when there's a mouse click in openFrameworks.
+
+![Shows an image of an arduino plugged into a laptop with an openFrameworks sketch running and visual studio code in the background. The mouse is clicked and the led on the arduino toggles.](screenshot-oftArduinoUno.gif)
+
 ## Installation 🏗️
 
 0. (optional) You may want to fork this repository and look through the templates and change the default name and folder path.
@@ -32,7 +38,7 @@ A basic template for use in vscode on Linux. It includes auto formatting using c
 
 >```bash
 >projectGenerator -t"oftBasic" projectName
->projectGenerator -t"oftArduinoUno -a"ofxAddon" projectName
+>projectGenerator -t"oftArduinoUno" projectName
 >```
 
 2. Open the project in vscode. Click the `Open Workspace` button in the bottom right corner if you didn't open the workspace directly.

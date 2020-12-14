@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "path": ".",
+    },
+  ],
+  "settings": {
+    "clang-tidy.buildPath": "${config:openFrameworks.path}/libs/openFrameworks",
+    "[cpp]": {
+      "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "editor.formatOnSave": true
+  },
+  "extensions": {
+    "recommendations": [
+      "vsciot-vscode.vscode-arduino",
+      "ms-vscode.cpptools",
+      "xaver.clang-format",
+    ],
+  },
+}
