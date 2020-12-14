@@ -1,13 +1,13 @@
 #include "ofApp.h"
 
 constexpr const char *PROJECT_NAME = "Untitled";
-constexpr const char *CREATOR = "Violet Graham";
+constexpr const char *CREATOR = "Creator Name";
 
 void ofApp::setup() {}
 
 void ofApp::update() { title(); }
 
-void ofApp::draw() {}
+void ofApp::draw() { ofBackground(ofGetFrameNum() % 255); }
 
 void ofApp::title() {
   stringstream titleStream;
