@@ -1,0 +1,8 @@
+{
+    "sketch": "arduino/arduino.ino",
+    "port": "/dev/ttyACM0",
+    "board": "arduino:avr:uno",
+    "output": "../build",
+    "debugger": "jlink",
+    "programmer": "AVRISP mkII"
+}
