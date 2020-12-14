@@ -15,4 +15,5 @@ Project is setup to be run in Visual Studio Code on Linux. Use openFrameworks pr
 ### Arduino Extension Shortcuts
 
 `ctrl + alt + r` Verify Arduino Code
+
 `ctrl + alt + u` Upload Arduino Code
