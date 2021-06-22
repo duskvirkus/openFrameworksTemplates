@@ -1,0 +1,15 @@
+﻿  main.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+     Creating library bin\oftBasicVS2019_debug.lib and object bin\oftBasicVS2019_debug.exp
+  oftBasicVS2019.vcxproj -> C:\Users\dusk\of_v0.11.2_vs2017_release\apps\myApps\oftBasicVS2019\bin\oftBasicVS2019_debug.exe
+  
+  	                   2	C:\Users\dusk\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	    New File  		 1544704	C:\Users\dusk\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\fmod.dll
+  	    New File  		 1733120	C:\Users\dusk\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\fmodL.dll
+  
+  	                   1	C:\Users\dusk\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	C:\Users\dusk\of_v0.11.2_vs2017_release\apps\myApps\oftBasicVS2019\bin\fmod.dll
+  	  *EXTRA File 		 1733120	C:\Users\dusk\of_v0.11.2_vs2017_release\apps\myApps\oftBasicVS2019\bin\fmodL.dll
+  	    New File  		 6018560	C:\Users\dusk\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
